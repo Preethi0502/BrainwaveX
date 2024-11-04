@@ -52,12 +52,6 @@ To run the project locally:
 npm run dev
 Open http://localhost:5173 in your browser to view the project.
 
-## 🖼️ **Screenshots**
-Here are some screenshots of the BRAINWAVE X project:
-![Homepage Screenshot](screenshots/homepage.png)
-![Feature1 Screenshot](screenshots/feature1.png)
-![Feature2 Screenshot](screenshots/feature2.png)
-
 ## 📞 **Contact Information**
 Feel free to reach out:
 Email: your-preethi522002@gmail.com
